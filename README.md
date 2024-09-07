@@ -33,3 +33,5 @@ Features
     Python 3.x
     periodictable library
     mendeleev library
+
+This project was inspired by a fascination with chemistry and the desire to make learning about elements engaging and accessible. 
